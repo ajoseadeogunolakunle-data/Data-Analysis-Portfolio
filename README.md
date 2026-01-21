@@ -5,7 +5,7 @@
 I am a **Data Analyts** with background a in finance. With a career spanning accounting and data analytics, I specialize in using **Excel, SQL, Power BI, and Python** to solve business problems.
 I enjoy taking raw, unorganized information and turning it into a clear roadmap for growth.
 
-i  have worked on projects ranging from sales analysis,fintechs to staff perfromance tracking 
+i  have worked on projects ranging from sales analysis,fintechs also staff perfromance tracking 
 
 My pession hes in helping business and individals to make informed decsison using data
 
